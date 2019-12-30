@@ -1,0 +1,20 @@
+h1,h2 {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+h1{
+	font-size: 3rem;
+	opacity: 0.8
+}
+
+h2{
+	font-size: 2rem;
+	opacity: 0.5;
+}
+
+body {
+	background: linear-gradient(to right,#00ff00,#fff000);
+	text-align: center;
+
+}
